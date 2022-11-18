@@ -35,7 +35,7 @@ describe('FileSizePipe', () => {
             TestBed.configureTestingModule({
                 declarations: [
                     FileSizePipe,
-                    TestComponent
+                    TestComponent 
                 ]
             });
 
